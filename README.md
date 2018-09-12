@@ -9,9 +9,14 @@
     {
       alert('Bindu! You did it!!!');
     });
-                     
-   
+                    
   </script>
+  <style>
+      button {
+  color:blue;
+  border: 2px solid lightBlue;
+}
+    </style>
     </head>
   <body>
     <button>Click here</button>
